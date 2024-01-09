@@ -9,5 +9,3 @@
 <h2>Utilities Used</h2>
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>World Map of Incoming Attacks After 24 Hours (Built Custom Logs Including Geodata)</h2>
